@@ -1,0 +1,16 @@
+{
+  "name": "symbiote-synthetics",
+  "description": "Symbiote webpack starter project",
+  "private": true,
+  "author": "Symbiote",
+  "version": "0.0.1",
+  "repository": "",
+  "engines": {
+    "node": ">=7.6"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
